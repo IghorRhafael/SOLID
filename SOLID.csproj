@@ -7,12 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="01_SRP\README.md" />
-    <Compile Include="02_OCP\README.md" />
-    <Compile Include="03_LSP\README.md" />
-    <Compile Include="04_ISP\README.md" />
-    <Compile Include="05_DIP\README.md" />
-  </ItemGroup>
-
 </Project>
