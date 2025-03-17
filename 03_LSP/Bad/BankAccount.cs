@@ -1,10 +1,14 @@
+/// <summary>
+/// Bad example of code,
+/// The SavingsAccount class inherits from BankAccount, but the Withdraw method was overridden and does not respect the base class contract.
+/// Breaking the Liskov Substitution Principle.
+/// 
+/// Mau exemplo de código,
+/// A classe SavingsAccount herda de BankAccount, mas o método Withdraw foi sobrescrito e não respeita o contrato da classe base.
+/// Quebrando o princípio de substituição segura de Liskov.
+/// </summary>
 namespace SOLID._03_LSP.Bad;
 
-/*
-Mau exemplo de código,
-A classe SavingsAccount herda de BankAccount, mas o método Withdraw foi sobrescrito e não respeita o contrato da classe base.
-Quebrando o princípio de substituição segura de Liskov.
-*/
 public class BankAccount
 {
     public virtual void Withdraw(decimal amount)

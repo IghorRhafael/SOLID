@@ -8,9 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="03_LSP\ReadMe.txt" />
-    <Compile Include="04_ISP\ReadMe.txt" />
-    <Compile Include="05_DIP\ReadMe.txt" />
+    <Compile Include="01_SRP\README.md" />
+    <Compile Include="02_OCP\README.md" />
+    <Compile Include="03_LSP\ReadMe.md" />
+    <Compile Include="04_ISP\ReadMe.md" />
+    <Compile Include="05_DIP\ReadMe.md" />
   </ItemGroup>
 
 </Project>
