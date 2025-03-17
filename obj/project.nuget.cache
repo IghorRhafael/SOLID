@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fd7MzfHsmEcjg60XNUhZlOOP1D41o3F5DrK9b4e+Nt9iJXWFKANQsNoDjM3ktnimCPCnuHgWeNgn1hdVggMNgA==",
+  "dgSpecHash": "h6GowRkpR+bKaMhD/VfTeDiSEi1gKyTjkSrUa+3L7vjw1V2gXhdc2Rltc7K4IQPbjOYtW9Ae2EHC1XENhPMqCw==",
   "success": true,
-  "projectFilePath": "F:\\Development\\SOLID\\SOLID.csproj",
+  "projectFilePath": "f:\\Development\\SOLID\\SOLID.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

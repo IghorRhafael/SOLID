@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Development\\SOLID\\SOLID.csproj": {}
+    "f:\\Development\\SOLID\\SOLID.csproj": {}
   },
   "projects": {
-    "F:\\Development\\SOLID\\SOLID.csproj": {
+    "f:\\Development\\SOLID\\SOLID.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Development\\SOLID\\SOLID.csproj",
+        "projectUniqueName": "f:\\Development\\SOLID\\SOLID.csproj",
         "projectName": "SOLID",
-        "projectPath": "F:\\Development\\SOLID\\SOLID.csproj",
+        "projectPath": "f:\\Development\\SOLID\\SOLID.csproj",
         "packagesPath": "C:\\Users\\ighor\\.nuget\\packages\\",
-        "outputPath": "F:\\Development\\SOLID\\obj\\",
+        "outputPath": "f:\\Development\\SOLID\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ighor\\AppData\\Roaming\\NuGet\\NuGet.Config",
